@@ -27,12 +27,12 @@ So, the Principles are a tool to give others a common, accepted language specifi
 Once you have a common language, you need to speak it.
 While those who actively participate in open source communities may understand the nuances and complexities of their communities, these nuances are rarely documented.
 Speaking this common language about what authentic participation means allows us to better communicate what is important to the sustainability of software development communities.
-When we can better communicate our needs and help others better empathesize with open source best practices, the challenge becomes a little easier.
+When we can better communicate our needs and help others better empathize with open source best practices, the challenge becomes a little easier.
 
 
 ## Create Knowledge
 
-**The Principles of Authentic Participation encourages others to _CREATE_ new knowledge by using them as a reference point.**
+**The Principles of Authentic Participation encourage others to _CREATE_ new knowledge by using them as a reference point.**
 
 The Principles provide common language, but this language is needed in conversations that are typically private.
 When someone advocates for open source best practices in their organization, it is typically in private conversations.
